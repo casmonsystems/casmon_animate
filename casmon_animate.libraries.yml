@@ -1,0 +1,9 @@
+animate_on_scroll:
+  js:
+    js/aos.init.js: {}
+    'https://unpkg.com/aos@2.3.4/dist/aos.js': { type: external, minified: true }
+  dependencies:
+    - core/jquery
+  css:
+    component:
+      'https://unpkg.com/aos@2.3.4/dist/aos.css': { type: external, minified: true }

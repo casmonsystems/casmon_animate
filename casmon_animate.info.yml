@@ -1,0 +1,5 @@
+name: 'Casmon Animations'
+type: module
+description: 'Casmon animations on scroll'
+core_version_requirement: ^9 || ^10
+package: Casmon
